@@ -28,12 +28,12 @@ Work experience
 
   Fall 2024: Research Assistant
   * University of Alberta
-  * Duties included: Searching on IRCC AI driven Tools in Applicant Assesment Documents 
+  * Duties included: Using design fiction methodology to create a simulation video showing how AI-driven tools work for IRCC 
   * Supervisor: Professor Geoffery Rockwell
 
   Winter 2025: Research Assistant
   * University of Alberta
-  * Duties included: Searching on IRCC AI driven Tools in Applicant Assesment Documents 
+  * Duties included: Create an appendix file with screenshots from the documents we have about how the AI-driven tools work, and publish a conference paper about it. 
   * Supervisor: Professor Geoffery Rockwell
   
 Skills
